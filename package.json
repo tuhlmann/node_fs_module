@@ -1,0 +1,12 @@
+{
+  "name": "node_fs_module",
+  "version": "1.0.0",
+  "description": "Simple Node script to demonstrate the usage of the FS module",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torsten Uhlmann"
+}
